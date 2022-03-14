@@ -10,4 +10,5 @@ class AirlineTicketingSystemApplicationTests {
 	void contextLoads() {
 	}
 
+
 }
